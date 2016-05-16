@@ -1,5 +1,5 @@
 ## 2.0.0 / 2016-0x-xx
-
+#500
  * Make route params available during error handler. #895 (Jeremy Evans)
 
  * Make `not_found` and `error(404)` behavior match. #896 (Jeremy Evans)
